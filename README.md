@@ -12,7 +12,7 @@ This is a basic project from Jonas Schmedtmann's React.js course, with a primary
 
 ## Live Demo
 
-🔗 **[View Travel List Live](https://split-bill-zahn.vercel.app)**
+🔗 **[View Split Bill Live](https://split-bill-zahn.vercel.app)**
 
 ## Installation
 
