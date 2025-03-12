@@ -17,8 +17,8 @@ This is a basic project from Jonas Schmedtmann's React.js course, with a primary
 ## Installation
 
 ```bash
-git clone https://github.com/zahnx/travel-list.git
-cd travel-list
+git clone https://github.com/zahnx/split-bill.git
+cd split-bill
 npm install
 npm start
 ```
