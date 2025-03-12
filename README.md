@@ -12,13 +12,13 @@ This is a basic project from Jonas Schmedtmann's React.js course, with a primary
 
 ## Live Demo
 
-🔗 **[View Travel List Live](https://split-bill-zahn.vercel.app)**
+🔗 **[View Split Bill Live](https://split-bill-zahn.vercel.app)**
 
 ## Installation
 
 ```bash
-git clone https://github.com/zahnx/travel-list.git
-cd travel-list
+git clone https://github.com/zahnx/split-bill.git
+cd split-bill
 npm install
 npm start
 ```
